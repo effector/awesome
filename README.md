@@ -31,7 +31,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Packages
 - [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for Effector that sync stores with localStorage
-- [effector-react-inject] - https://github.com/today-/effector-react-inject
+- [effector-react-inject](https://github.com/today-/effector-react-inject) - Inject Effector's state to React components simple way
 - [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector
 - [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library
 
