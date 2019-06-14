@@ -2,7 +2,7 @@
 
 > [**Effector**](https://effector.now.sh/) is the reactive state manager. 
 
-A curated list of awesome Effector videos, articles, plugins, whatever, for designers, developers, or neither.
+A curated list of awesome Effector videos, articles, packages.
 
 Found something cool? Please, **[contribute](contributing.md)**!
 
