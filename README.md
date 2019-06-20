@@ -14,10 +14,14 @@ Found something cool? Please, **[contribute](contributing.md)**!
   * [Tips and Tricks](#tips-and-tricks)
   * [Tutorials](#tutorials)
 * [Community](#community) 
+* [Examples](#examples)
+* [Packages](#packages)
 
 ## Videos
-###### Tutorials
-- 
+- [Проблемы стейт-менеджмента и их решение с Effector.js](https://www.youtube.com/watch?v=48XSmEIqbkI)
+- [Погружение в Effector — реактивный менеджер состояния](https://www.youtube.com/watch?v=cZcHF8a2ZA4)
+- [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
+- [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
 
 ## Guides
 
@@ -28,6 +32,9 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Community
 - [:ru: Telegram Effector Chat](https://t.me/effector_ru)
+
+## Examples
+- [Todo App with effector [2]](https://codesandbox.io/s/9nj2w)
 
 ## Packages
 - [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for Effector that sync stores with localStorage
