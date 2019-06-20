@@ -32,6 +32,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Community
 - [:ru: Telegram Effector Chat](https://t.me/effector_ru)
+- [:ru: Effector: tips & tricks](https://t.me/effector_tips_ru)
 
 ## Examples
 - [Todo App with effector [2]](https://codesandbox.io/s/9nj2w)
