@@ -30,6 +30,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
 
 ## Community
+- [Effector Twitter](https://twitter.com/EffectorJS)
 - [:ru: Telegram Effector Chat](https://t.me/effector_ru)
 - [:ru: Effector: tips & tricks](https://t.me/effector_tips_ru)
 
