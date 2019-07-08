@@ -29,6 +29,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Articles
 - [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
 - [Effector: powerful and fast 5kb state manager](https://codeburst.io/effector-state-manager-6ee2e72e8e0b)
+- [Why I choose Effector instead of Redux or MobX?](https://dev.to/lessmess/why-i-choose-effector-instead-of-redux-or-mobx-3dl7)
 
 ## Community
 - [Effector Twitter](https://twitter.com/EffectorJS)
