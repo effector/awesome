@@ -38,7 +38,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Examples
 #### Simple examples
-- [Todo App with effector [2]](https://codesandbox.io/s/9nj2w)
+- [React Effector todo list](https://codesandbox.io/s/sad-darwin-qq3pq)
 
 #### Real apps
 - [@howtocards/frontend](https://github.com/howtocards/frontend)
