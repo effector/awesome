@@ -37,10 +37,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [:ru: Effector: tips & tricks](https://t.me/effector_tips_ru)
 
 ## Examples
-#### Simple examples
 - [React Effector todo list](https://codesandbox.io/s/sad-darwin-qq3pq)
-
-#### Real apps
 - [process-explorer](https://github.com/lessmess-dev/process-explorer) - Hierarchical system processes viewer
 - [@howtocards/frontend](https://github.com/howtocards/frontend)
 - [http://actorsmovies.club Frontend](https://github.com/today-/actorsmovies/)
@@ -49,6 +46,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [mlp-ssr](https://github.com/maxmitko/mlp-ssr)
 - [rn-ios-calc](https://github.com/niksmr/rn-ios-calc)
 - [Easy and light Reactjs Strong Typed Notepad with Effector state manager](https://github.com/paurock/Strong-Typed-Notepad-Reactjs-w-Effector)
+- [snake](https://github.com/userbq201/snake) — Snake Game
 
 #### Comparisons with other libs
 - [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - effector vs mobx vs rxjs - diamon problem (glitches)
