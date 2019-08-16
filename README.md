@@ -52,10 +52,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - effector vs mobx vs rxjs - diamon problem (glitches)
 
 ## Packages
-- [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for Effector that sync stores with localStorage
-- [effector-react-inject](https://github.com/today-/effector-react-inject) - Inject Effector's state to React components simple way
-- [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector
-- [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library
+- [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) — Module for Effector that sync stores with localStorage
+- [effector-react-inject](https://github.com/today-/effector-react-inject) — Inject Effector's state to React components simple way
+- [effector-routing](https://github.com/Kelin2025/effector-routing) — Simple abstact router on top of Effector.
+- [effector-undo](https://github.com/tanyaisinmybed/effector-undo) — Simple undo/redo functionality for effector
+- [effector-utils](https://github.com/Kelin2025/effector-utils) — Effector utilities library
 
 
 
