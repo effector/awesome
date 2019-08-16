@@ -47,8 +47,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [rn-ios-calc](https://github.com/niksmr/rn-ios-calc)
 - [Easy and light Reactjs Strong Typed Notepad with Effector state manager](https://github.com/paurock/Strong-Typed-Notepad-Reactjs-w-Effector)
 - [snake](https://github.com/userbq201/snake) — Snake Game
-
-#### Comparisons with other libs
 - [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - effector vs mobx vs rxjs - diamon problem (glitches)
 
 ## Packages
