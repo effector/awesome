@@ -37,7 +37,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [:ru: Effector: tips & tricks](https://t.me/effector_tips_ru)
 
 ## Examples
-- [React Effector todo list](https://codesandbox.io/s/sad-darwin-qq3pq)
+- [React Effector todo list](https://codesandbox.io/s/react-effector-todo-list-o5yzj)
 - [process-explorer](https://github.com/lessmess-dev/process-explorer) - Hierarchical system processes viewer
 - [@howtocards/frontend](https://github.com/howtocards/frontend)
 - [http://actorsmovies.club Frontend](https://github.com/today-/actorsmovies/)
