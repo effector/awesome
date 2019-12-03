@@ -37,6 +37,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [:ru: Effector: tips & tricks](https://t.me/effector_tips_ru)
 
 ## Examples
+- [react-effector-realworld-example-app](https://github.com/mg901/react-effector-realworld-example-app) — React + Effector Example App
 - [React Effector todo list](https://codesandbox.io/s/react-effector-todo-list-o5yzj)
 - [process-explorer](https://github.com/lessmess-dev/process-explorer) - Hierarchical system processes viewer
 - [@howtocards/frontend](https://github.com/howtocards/frontend)
