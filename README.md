@@ -51,6 +51,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Packages
 - [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) — Module for Effector that sync stores with localStorage
+- [effector-storage](https://github.com/yumauri/effector-storage) — Another module for Effector to sync stores with localStorage/sessionStorage
 - [effector-react-inject](https://github.com/today-/effector-react-inject) — Inject Effector's state to React components simple way
 - [effector-routing](https://github.com/Kelin2025/effector-routing) — Simple abstact router on top of Effector.
 - [effector-undo](https://github.com/tanyaisinmybed/effector-undo) — Simple undo/redo functionality for effector
