@@ -23,6 +23,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Погружение в Effector — реактивный менеджер состояния](https://www.youtube.com/watch?v=cZcHF8a2ZA4)
 - [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
 - [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
+- [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
 
 ## Guides
 
