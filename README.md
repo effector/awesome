@@ -17,6 +17,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Examples](#examples)
 * [Packages](#packages)
 
+## Podcasts
+
+- [Пятиминутка React — Effector](https://soundcloud.com/5minreact/063-effector)
+
 ## Videos
 - [Замена redux на effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk)
 - [Проблемы стейт-менеджмента и их решение с Effector.js](https://www.youtube.com/watch?v=48XSmEIqbkI)
