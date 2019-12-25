@@ -38,8 +38,9 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Community
 - [Effector Twitter](https://twitter.com/EffectorJS)
-- [:ru: Telegram Effector Chat](https://t.me/effector_ru)
-- [:ru: Effector: tips & tricks](https://t.me/effector_tips_ru)
+- [Telegram Effector Chat](https://t.me/effector_en)
+- [Telegram Effector Chat :ru:](https://t.me/effector_ru)
+- [Effector: tips & tricks :ru:](https://t.me/effector_tips_ru)
 
 ## Examples
 - [react-effector-realworld-example-app](https://github.com/mg901/react-effector-realworld-example-app) — React + Effector Example App
