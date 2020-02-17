@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "awesome-effector",
+  "scripts": {
+    "lint": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "0.12.1"
+  }
+}
