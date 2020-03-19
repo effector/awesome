@@ -42,7 +42,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [@howtocards/frontend](https://github.com/howtocards/frontend)
 * [http://actorsmovies.club Frontend](https://github.com/today-/actorsmovies/)
 * [react-material-ui-datatable](https://github.com/DTupalov/react-material-ui-datatable)
-* [N-Back game with React • Effector](https://github.com/R9c8/n-back-training)
 * [mlp-ssr](https://github.com/maxmitko/mlp-ssr)
 * [rn-ios-calc](https://github.com/niksmr/rn-ios-calc)
 * [Easy and light Reactjs Strong Typed Notepad with Effector state manager](https://github.com/paurock/Strong-Typed-Notepad-Reactjs-w-Effector)
