@@ -12,6 +12,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Videos](#videos)
 * [Articles](#articles) 
 * [Community](#community) 
+* [Templates](#templates)
 * [Examples](#examples)
 * [Packages](#packages)
 
@@ -26,7 +27,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
 * [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
 * [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
-* [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Использование в Яндекс, SSR on Razzle, Under the hood
+* [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Using at Yandex, SSR on Razzle, Under the hood.
 
 ## Articles
 * [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
@@ -38,8 +39,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Templates
 
-* [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled
-* [CRA template](https://github.com/sergeysova/cra-template-effector) - Simple CreateReactApp template
+* [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled.
+* [CRA template](https://github.com/sergeysova/cra-template-effector) - Simple CreateReactApp template.
 
 ## Examples
 * [react-effector-realworld-example-app](https://github.com/mg901/react-effector-realworld-example-app) - React + Effector Example App.
@@ -63,4 +64,5 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for Effector.
 * [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
-* [effector-debounce](https://github.com/sergeysova/effector-debounce) and [effector-throttle](https://github.com/sergeysova/effector-throttle) - Debounce and throttle effects fabrics
+* [effector-debounce](https://github.com/sergeysova/effector-debounce) - Debounce effects fabric.
+* [effector-throttle](https://github.com/sergeysova/effector-throttle) - Simple throttle for effector events.
