@@ -36,6 +36,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
 
+## Templates
+
+* [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled
+* [CRA template](https://github.com/sergeysova/cra-template-effector) - Simple CreateReactApp template
+
 ## Examples
 * [react-effector-realworld-example-app](https://github.com/mg901/react-effector-realworld-example-app) - React + Effector Example App.
 * [React Effector todo list](https://codesandbox.io/s/react-effector-todo-list-o5yzj)
