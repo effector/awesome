@@ -12,6 +12,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Videos](#videos)
 * [Articles](#articles) 
 * [Community](#community) 
+* [Templates](#templates)
 * [Examples](#examples)
 * [Packages](#packages)
 
@@ -35,6 +36,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
+* [Telegram RU](https://t.me/effector_ru)
+* [Telegram EN](https://t.me/effector_en)
 
 ## Templates
 
@@ -63,4 +66,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for Effector.
 * [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
-* [effector-debounce](https://github.com/sergeysova/effector-debounce) and [effector-throttle](https://github.com/sergeysova/effector-throttle) - Debounce and throttle effects fabrics
+* [effector-debounce](https://github.com/sergeysova/effector-debounce) and [effector-throttle](https://github.com/sergeysova/effector-throttle) - Debounce and throttle effects fabrics.
