@@ -26,6 +26,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
 * [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
 * [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
+* [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Использование в Яндекс, SSR on Razzle, Under the hood
 
 ## Articles
 * [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
@@ -35,6 +36,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
 
+## Templates
+
+* [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled
+* [CRA template](https://github.com/sergeysova/cra-template-effector) - Simple CreateReactApp template
+
 ## Examples
 * [react-effector-realworld-example-app](https://github.com/mg901/react-effector-realworld-example-app) - React + Effector Example App.
 * [React Effector todo list](https://codesandbox.io/s/react-effector-todo-list-o5yzj)
@@ -42,7 +48,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [@howtocards/frontend](https://github.com/howtocards/frontend)
 * [http://actorsmovies.club Frontend](https://github.com/today-/actorsmovies/)
 * [react-material-ui-datatable](https://github.com/DTupalov/react-material-ui-datatable)
-* [N-Back game with React • Effector](https://github.com/R9c8/n-back-training)
 * [mlp-ssr](https://github.com/maxmitko/mlp-ssr)
 * [rn-ios-calc](https://github.com/niksmr/rn-ios-calc)
 * [Easy and light Reactjs Strong Typed Notepad with Effector state manager](https://github.com/paurock/Strong-Typed-Notepad-Reactjs-w-Effector)
@@ -59,13 +64,3 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for Effector.
 * [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
 * [effector-debounce] and [effector-throttle] - Debounce and throttle effects fabrics
-
-[effector-debounce]: https://github.com/sergeysova/effector-debounce
-[effector-throttle]: https://github.com/sergeysova/effector-throttle
-
-
----
-
-###### LICENSE
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
