@@ -57,10 +57,3 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for Effector.
 * [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
-
-
----
-
-###### LICENSE
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
