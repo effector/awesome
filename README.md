@@ -26,6 +26,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
 * [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
 * [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
+* [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Использование в Яндекс, SSR on Razzle, Under the hood
 
 ## Articles
 * [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
