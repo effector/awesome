@@ -58,6 +58,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for Effector.
 * [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
+* [effector-debounce] and [effector-throttle] - Debounce and throttle effects fabrics
+
+[effector-debounce]: https://github.com/sergeysova/effector-debounce
+[effector-throttle]: https://github.com/sergeysova/effector-throttle
 
 
 ---
