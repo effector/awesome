@@ -34,11 +34,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Effector: powerful and fast 5kb state manager](https://codeburst.io/effector-state-manager-6ee2e72e8e0b)
 * [Why I choose Effector instead of Redux or MobX?](https://dev.to/lessmess/why-i-choose-effector-instead-of-redux-or-mobx-3dl7)
 * [Effector: we need to go deeper](https://dev.to/yumauri/effector-we-need-to-go-deeper-4geg)
-* E~wee~ctor (4 Part Series)
-  * [E~wee~ctor: writing tiny Effector from scratch #1 — Counter](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-1-1kap)
-  * [E~wee~ctor: writing tiny Effector from scratch #2 — Maps and Filters](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-2-31po)
-  * [E~wee~ctor: writing tiny Effector from scratch #3 — Simple API methods](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-3-simple-api-methods-41f3)
-  * [E~wee~ctor: writing tiny Effector from scratch #4 — Effect](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-4-54b)
+* E\~wee\~ctor (4 Part Series)
+  * [E\~wee\~ctor: writing tiny Effector from scratch #1 — Counter](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-1-1kap)
+  * [E\~wee\~ctor: writing tiny Effector from scratch #2 — Maps and Filters](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-2-31po)
+  * [E\~wee\~ctor: writing tiny Effector from scratch #3 — Simple API methods](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-3-simple-api-methods-41f3)
+  * [E\~wee\~ctor: writing tiny Effector from scratch #4 — Effect](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-4-54b)
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
