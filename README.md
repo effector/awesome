@@ -69,3 +69,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
 * [effector-debounce](https://github.com/sergeysova/effector-debounce) - Debounce events fabric.
 * [effector-throttle](https://github.com/sergeysova/effector-throttle) - Simple throttle for effector events.
+* [patronum](https://github.com/sergeysova/patronum) - Effector utility library delivering modularity and convenience.
