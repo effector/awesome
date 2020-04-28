@@ -16,6 +16,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Examples](#examples)
 * [Packages](#packages)
 
+## Meetups
+
+* [Effector SPb Meetup #1](https://www.youtube.com/watch?v=IacUIo9fXhI) RU
+
 ## Podcasts
 
 * [Пятиминутка React — Effector](https://soundcloud.com/5minreact/063-effector)
