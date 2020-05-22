@@ -39,6 +39,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
   * [E\~wee\~ctor: writing tiny Effector from scratch #2 — Maps and Filters](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-2-31po)
   * [E\~wee\~ctor: writing tiny Effector from scratch #3 — Simple API methods](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-3-simple-api-methods-41f3)
   * [E\~wee\~ctor: writing tiny Effector from scratch #4 — Effect](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-4-54b)
+* [Effector vs. Vuex. Which storage management is better for VueJS app?](https://medium.com/blue-harvest-tech-blog/effector-vs-vuex-which-storage-management-is-better-for-vuejs-app-54f3c3257b53)
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
