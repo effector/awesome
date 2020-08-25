@@ -48,7 +48,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Packages
 * [patronum](https://github.com/sergeysova/patronum) - Effector utility library delivering modularity and convenience.
-* [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector
+* [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
 * [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for effector.
 * [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
