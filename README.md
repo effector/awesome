@@ -2,7 +2,7 @@
 
 > [**Effector**](https://effector.now.sh/) is the reactive state manager. 
 
-A curated list of awesome Effector videos, articles, packages.
+A curated list of awesome effector videos, articles, packages.
 
 Found something cool? Please, **[contribute](contributing.md)**!
 
@@ -47,17 +47,18 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - Effector vs MobX vs rxjs - diamon problem (glitches).
 
 ## Packages
-* [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for Effector that sync stores with localStorage.
+* [patronum](https://github.com/sergeysova/patronum) - Effector utility library delivering modularity and convenience.
+* [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector
+* [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for effector.
+* [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
+* [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
 * [effector-storage](https://github.com/yumauri/effector-storage) - Another module for Effector to sync stores with localStorage/sessionStorage.
-* [effector-react-inject](https://github.com/today-/effector-react-inject) - Inject Effector's state to React components simple way.
-* [effector-routing](https://github.com/Kelin2025/effector-routing) - Simple abstact router on top of Effector.
+* [effector-react-inject](https://github.com/today-/effector-react-inject) - Inject effector's state to React components simple way.
+* [effector-routing](https://github.com/Kelin2025/effector-routing) - Simple abstact router on top of effector.
 * [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
-* [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for Effector.
-* [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
 * [effector-debounce](https://github.com/sergeysova/effector-debounce) - Debounce events fabric.
 * [effector-throttle](https://github.com/sergeysova/effector-throttle) - Simple throttle for effector events.
-* [patronum](https://github.com/sergeysova/patronum) - Effector utility library delivering modularity and convenience.
 * [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
 
 ## Templates
@@ -66,12 +67,12 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Videos
 * [Замена redux на effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk)
-* [Проблемы стейт-менеджмента и их решение с Effector.js](https://www.youtube.com/watch?v=48XSmEIqbkI)
+* [Проблемы стейт-менеджмента и их решение с effector.js](https://www.youtube.com/watch?v=48XSmEIqbkI)
 * [Погружение в Effector — реактивный менеджер состояния](https://www.youtube.com/watch?v=cZcHF8a2ZA4)
 * [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
-* [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
+* [Управление состоянием #5: effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
 * [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
 * [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Using at Yandex, SSR on Razzle, Under the hood.
 
 ## Podcasts
-* [Пятиминутка React — Effector](https://soundcloud.com/5minreact/063-effector)
+* [Пятиминутка React — effector](https://soundcloud.com/5minreact/063-effector)
