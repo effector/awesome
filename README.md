@@ -8,26 +8,13 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Contents
 
-* [Podcasts](#podcasts) 
-* [Videos](#videos)
 * [Articles](#articles) 
 * [Community](#community) 
-* [Templates](#templates)
 * [Examples](#examples)
 * [Packages](#packages)
-
-## Podcasts
-
-* [Пятиминутка React — Effector](https://soundcloud.com/5minreact/063-effector)
-
-## Videos
-* [Замена redux на effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk)
-* [Проблемы стейт-менеджмента и их решение с Effector.js](https://www.youtube.com/watch?v=48XSmEIqbkI)
-* [Погружение в Effector — реактивный менеджер состояния](https://www.youtube.com/watch?v=cZcHF8a2ZA4)
-* [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
-* [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
-* [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
-* [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Using at Yandex, SSR on Razzle, Under the hood.
+* [Templates](#templates)
+* [Videos](#videos)
+* [Podcasts](#podcasts)
 
 ## Articles
 * [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
@@ -45,11 +32,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Effector Twitter](https://twitter.com/EffectorJS)
 * [Telegram RU](https://t.me/effector_ru)
 * [Telegram EN](https://t.me/effector_en)
-
-## Templates
-
-* [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled.
-* [CRA template](https://github.com/sergeysova/cra-template-effector) - Simple CreateReactApp template.
 
 ## Examples
 * [react-effector-realworld-example-app](https://github.com/mg901/react-effector-realworld-example-app) - React + Effector Example App.
@@ -77,3 +59,19 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-throttle](https://github.com/sergeysova/effector-throttle) - Simple throttle for effector events.
 * [patronum](https://github.com/sergeysova/patronum) - Effector utility library delivering modularity and convenience.
 * [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
+
+## Templates
+* [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled.
+* [CRA template](https://github.com/sergeysova/cra-template-effector) - Simple CreateReactApp template.
+
+## Videos
+* [Замена redux на effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk)
+* [Проблемы стейт-менеджмента и их решение с Effector.js](https://www.youtube.com/watch?v=48XSmEIqbkI)
+* [Погружение в Effector — реактивный менеджер состояния](https://www.youtube.com/watch?v=cZcHF8a2ZA4)
+* [Лайвкодинг: реальное использование Effector.js](https://www.youtube.com/watch?v=fbtElWjOXV0)
+* [Управление состоянием #5: Effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
+* [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
+* [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Using at Yandex, SSR on Razzle, Under the hood.
+
+## Podcasts
+* [Пятиминутка React — Effector](https://soundcloud.com/5minreact/063-effector)
