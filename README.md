@@ -62,7 +62,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-debounce](https://github.com/sergeysova/effector-debounce) - Debounce events fabric.
 * [effector-throttle](https://github.com/sergeysova/effector-throttle) - Simple throttle for effector events.
 * [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
-- [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
+* [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
 
 ## Templates
 * [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled.
