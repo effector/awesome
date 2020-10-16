@@ -76,6 +76,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Управление состоянием #5: effector](https://www.youtube.com/watch?v=fdjc5ZPckNo)
 * [Procrastinate'n'dev](https://www.youtube.com/watch?v=LYo6l120pjk)
 * [Effector SPb Meetup #1](https://youtu.be/IacUIo9fXhI) - Using at Yandex, SSR on Razzle, Under the hood.
+* [Быстрый старт "Effector"](https://www.youtube.com/watch?v=daaVMSod-aM)
+* [Подключение Effector к Firebase/Firestore (React)](https://www.youtube.com/watch?v=UJ4KMO3mj9Y)
 
 ## Podcasts
 * [Пятиминутка React — effector](https://soundcloud.com/5minreact/063-effector)
