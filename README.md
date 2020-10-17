@@ -30,6 +30,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
+* [Effector YouTube](https://www.youtube.com/channel/UCm8PRc_yjz3jXHH0JylVw1Q)
 * [Telegram RU](https://t.me/effector_ru)
 * [Telegram EN](https://t.me/effector_en)
 
