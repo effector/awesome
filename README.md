@@ -60,8 +60,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-routing](https://github.com/Kelin2025/effector-routing) - Simple abstact router on top of effector.
 * [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
-* [effector-debounce](https://github.com/sergeysova/effector-debounce) - Debounce events fabric.
-* [effector-throttle](https://github.com/sergeysova/effector-throttle) - Simple throttle for effector events.
 * [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
 * [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
 
