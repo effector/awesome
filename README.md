@@ -50,10 +50,10 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - Effector vs MobX vs rxjs - diamon problem (glitches).
 
 ## Packages
-* [patronum](https://github.com/sergeysova/patronum) - Effector utility library delivering modularity and convenience.
+* [patronum](https://github.com/effector/patronum) - Effector utility library delivering modularity and convenience.
+* [effector-logger](https://github.com/effector/logger) - Simple logger with stores inspector.
 * [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
 * [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for effector.
-* [effector-logger](https://github.com/sergeysova/effector-logger) - Simple logger with stores inspector.
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
 * [effector-storage](https://github.com/yumauri/effector-storage) - Another module for Effector to sync stores with localStorage/sessionStorage.
 * [effector-react-inject](https://github.com/today-/effector-react-inject) - Inject effector's state to React components simple way.
@@ -64,8 +64,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
 
 ## Templates
-* [Effector SSR](https://github.com/sergeysova/effector-ssr) - SSR on React, TypeScript, Razzle and Styled.
-* [CRA template](https://github.com/sergeysova/cra-template-effector) - Simple CreateReactApp template.
+* [Effector SSR](https://github.com/effector/razzle-template) - SSR on React, TypeScript, Razzle and Styled.
+* [CRA template](https://github.com/effector/cra-template) - Simple CreateReactApp template.
 
 ## Videos
 * [Замена redux на effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk)
