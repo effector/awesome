@@ -1,6 +1,6 @@
 # Awesome Effector ☄️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [**Effector**](https://effector.now.sh/) is the reactive state manager. 
+> [**Effector**](https://effector.dev/) is the reactive state manager. 
 
 A curated list of awesome effector videos, articles, packages.
 
