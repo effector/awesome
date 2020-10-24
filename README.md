@@ -20,14 +20,15 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
 * [Effector: powerful and fast 5kb state manager](https://codeburst.io/effector-state-manager-6ee2e72e8e0b)
 * [Why I choose Effector instead of Redux or MobX?](https://dev.to/lessmess/why-i-choose-effector-instead-of-redux-or-mobx-3dl7)
-* [Effector: we need to go deeper](https://dev.to/yumauri/effector-we-need-to-go-deeper-4geg)
-* E\~wee\~ctor (4 Part Series)
-  * [E\~wee\~ctor: writing tiny Effector from scratch #1 — Counter](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-1-1kap)
-  * [E\~wee\~ctor: writing tiny Effector from scratch #2 — Maps and Filters](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-2-31po)
-  * [E\~wee\~ctor: writing tiny Effector from scratch #3 — Simple API methods](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-3-simple-api-methods-41f3)
-  * [E\~wee\~ctor: writing tiny Effector from scratch #4 — Effect](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-4-54b)
 * [Effector vs. Vuex. Which storage management is better for VueJS app?](https://medium.com/blue-harvest-tech-blog/effector-vs-vuex-which-storage-management-is-better-for-vuejs-app-54f3c3257b53)
 * [Effector beginner's guide RU](https://telegra.ph/Effector-beginners-guide-RU-10-22)
+* [Effector: we need to go deeper](https://dev.to/yumauri/effector-we-need-to-go-deeper-4geg)
+* E\~wee\~ctor: writing tiny Effector from scratch
+  * [Part #1: Counter](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-1-1kap)
+  * [Part #2: Maps and Filters](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-2-31po)
+  * [Part #3: Simple API methods](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-3-simple-api-methods-41f3)
+  * [Part #4: Effect](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-4-54b)
+* [Create Your Effector-like State Manager](https://dev.to/gigantz/create-your-effector-like-state-manager-1nfd)
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
