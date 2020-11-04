@@ -22,6 +22,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Why I choose Effector instead of Redux or MobX?](https://dev.to/lessmess/why-i-choose-effector-instead-of-redux-or-mobx-3dl7)
 * [Effector vs. Vuex. Which storage management is better for VueJS app?](https://medium.com/blue-harvest-tech-blog/effector-vs-vuex-which-storage-management-is-better-for-vuejs-app-54f3c3257b53)
 * [Effector beginner's guide RU](https://telegra.ph/Effector-beginners-guide-RU-10-22)
+* [Effector beginner's guide EN](https://dev.to/yanlobat/effector-s-beginner-guide-3jl4)
 * [Effector: we need to go deeper](https://dev.to/yumauri/effector-we-need-to-go-deeper-4geg)
 * E\~wee\~ctor: writing tiny Effector from scratch
   * [Part #1: Counter](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-1-1kap)
