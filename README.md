@@ -12,6 +12,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Community](#community) 
 * [Examples](#examples)
 * [Packages](#packages)
+  * [Form management](#form-management)
 * [Templates](#templates)
 * [Videos](#videos)
 * [Podcasts](#podcasts)
@@ -21,10 +22,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Effector: powerful and fast 5kb state manager](https://codeburst.io/effector-state-manager-6ee2e72e8e0b)
 * [Why I choose Effector instead of Redux or MobX?](https://dev.to/lessmess/why-i-choose-effector-instead-of-redux-or-mobx-3dl7)
 * [Effector vs. Vuex. Which storage management is better for VueJS app?](https://medium.com/blue-harvest-tech-blog/effector-vs-vuex-which-storage-management-is-better-for-vuejs-app-54f3c3257b53)
+* [Using effector for api calls with svelte](https://richey.codes/posts/using-efffector-for-api-calls-with-svelte/)
 * [Effector beginner's guide RU](https://telegra.ph/Effector-beginners-guide-RU-10-22)
 * [Effector beginner's guide EN](https://dev.to/yanlobat/effector-s-beginner-guide-3jl4)
 * [Effector: we need to go deeper](https://dev.to/yumauri/effector-we-need-to-go-deeper-4geg)
-* E\~wee\~ctor: writing tiny Effector from scratch
+* Writing tiny effector from scratch
   * [Part #1: Counter](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-1-1kap)
   * [Part #2: Maps and Filters](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-2-31po)
   * [Part #3: Simple API methods](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-3-simple-api-methods-41f3)
@@ -53,18 +55,22 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - Effector vs MobX vs rxjs - diamon problem (glitches).
 
 ## Packages
-* [patronum](https://github.com/effector/patronum) - Effector utility library delivering modularity and convenience.
-* [effector-logger](https://github.com/effector/logger) - Simple logger with stores inspector.
-* [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
-* [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for effector.
-* [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
-* [effector-storage](https://github.com/yumauri/effector-storage) - Another module for Effector to sync stores with localStorage/sessionStorage.
-* [effector-react-inject](https://github.com/today-/effector-react-inject) - Inject effector's state to React components simple way.
-* [effector-routing](https://github.com/Kelin2025/effector-routing) - Simple abstact router on top of effector.
-* [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
-* [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
-* [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
-* [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
+
+- [patronum](https://github.com/effector/patronum) - Effector utility library delivering modularity and convenience.
+- [effector-logger](https://github.com/effector/logger) - Simple logger with stores inspector.
+- [effector-reeffect](https://github.com/yumauri/effector-reeffect) - Concurrent effects for effector.
+- [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
+- [effector-storage](https://github.com/yumauri/effector-storage) - Another module for effector to sync stores with localStorage/sessionStorage.
+- [effector-routing](https://github.com/Kelin2025/effector-routing) - Simple abstact router on top of effector.
+- [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
+- [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
+- [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
+- [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
+
+### Form management
+- [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
+- [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
+- [effector-react-form](https://github.com/GTOsss/effector-react-form)
 
 ## Templates
 * [Effector SSR](https://github.com/effector/razzle-template) - SSR on React, TypeScript, Razzle and Styled.
