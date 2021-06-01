@@ -75,6 +75,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Templates
 * [Effector SSR](https://github.com/effector/razzle-template) - SSR on React, TypeScript, Razzle and Styled.
 * [CRA template](https://github.com/effector/cra-template) - Simple CreateReactApp template.
+* [Vite+typescript template](https://github.com/mmnkuh/effector-vite-template)
 
 ## Videos
 * [Замена redux на effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk)
