@@ -1,4 +1,4 @@
-# Awesome effector ☄️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Effector ☄️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [**effector**](https://effector.dev/) is the reactive state manager. 
 
