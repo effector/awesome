@@ -66,6 +66,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
+* [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
 
 ### Form management
 * [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
