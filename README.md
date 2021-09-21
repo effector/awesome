@@ -1,4 +1,6 @@
-# Awesome Effector ☄️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Effector [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="https://effector.dev/img/comet.png" align="right" width="100">](https://effector.dev)
 
 > [Effector](https://effector.dev/) is the reactive data flow management library. 
 
