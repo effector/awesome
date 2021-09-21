@@ -2,7 +2,7 @@
 
 [<img src="https://effector.dev/img/comet.png" align="right" width="100">](https://effector.dev)
 
-> [Effector](https://effector.dev/) is the reactive data flow management library. 
+> Effector is the reactive data flow management library. 
 
 A curated list of awesome effector videos, articles, packages.
 
