@@ -1,6 +1,6 @@
 # Awesome Effector ☄️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [**effector**](https://effector.dev/) is the reactive state manager. 
+> [Effector](https://effector.dev/) is the reactive data flow management library. 
 
 A curated list of awesome effector videos, articles, packages.
 
