@@ -4,7 +4,7 @@
 
 > Effector is the reactive data flow management library. 
 
-A curated list of awesome effector videos, articles, packages.
+A curated list of awesome effector videos, articles, packages. [Russian articles, videos, and podcasts here](./RUSSIAN.md).
 
 Found something cool? Please, **[contribute](contributing.md)**!
 
