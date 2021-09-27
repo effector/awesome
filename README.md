@@ -16,8 +16,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Packages](#packages)
   * [Form management](#form-management)
 * [Templates](#templates)
-* [Videos](#videos)
-* [Podcasts](#podcasts)
 
 ## Articles
 * [Effector — State Manager You Should Give a Try](https://itnext.io/effector-state-manager-you-should-give-a-try-b46b917e51cc)
