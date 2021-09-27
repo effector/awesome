@@ -60,6 +60,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [patronum](https://github.com/effector/patronum) - Effector utility library delivering modularity and convenience.
 * [effector-logger](https://github.com/effector/logger) - Simple logger with stores inspector.
+* [eslint-plugin-effector](https://github.com/effector/eslint-plugin) - Enforcing best practices.
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
 * [effector-routing](https://github.com/Kelin2025/effector-routing) - Simple abstact router on top of effector.
 * [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
