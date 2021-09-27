@@ -40,6 +40,7 @@
     * [Можно ли уменьшить размер effector?](https://youtu.be/nLYc4PaTXYk?t=9498)
 * [Быстрый старт "effector"](https://www.youtube.com/watch?v=daaVMSod-aM)
 * [Подключение effector к Firebase/Firestore (React)](https://www.youtube.com/watch?v=UJ4KMO3mj9Y)
+* [Пишем игру на effector. Часть 1](https://www.youtube.com/watch?v=tjjxIQd0E8c)
 
 ## Подкасты
 * [Пятиминутка React — effector](https://soundcloud.com/5minreact/063-effector)
