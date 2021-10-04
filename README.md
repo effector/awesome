@@ -32,6 +32,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
   * [Part #3: Simple API methods](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-3-simple-api-methods-41f3)
   * [Part #4: Effect](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-4-54b)
 * [Create Your effector-like State Manager](https://dev.to/gigantz/create-your-effector-like-state-manager-1nfd)
+* [The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
