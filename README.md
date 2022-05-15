@@ -33,6 +33,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
   * [Part #4: Effect](https://dev.to/yumauri/e-wee-ctor-writing-tiny-effector-from-scratch-4-54b)
 * [Create Your effector-like State Manager](https://dev.to/gigantz/create-your-effector-like-state-manager-1nfd)
 * [The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)
+* [Usage with React and Typescript](https://effector.dev/docs/typescript/usage-with-effector-react)
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
@@ -66,7 +67,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
 * [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
-* [effector-next](https://github.com/weyheyhey/effector-next) - Effector wrappers for Next.js.
+* [effector-next](https://github.com/effector/nextjs) - Effector wrappers for Next.js.
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
 * [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
 
