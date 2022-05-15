@@ -34,6 +34,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Create Your effector-like State Manager](https://dev.to/gigantz/create-your-effector-like-state-manager-1nfd)
 * [The best part of Effector](https://dev.to/effector/the-best-part-of-effector-4c27)
 * [Usage with React and Typescript](https://effector.dev/docs/typescript/usage-with-effector-react)
+* [How `classList` API works in forest](https://dev.to/effector/classlist-api-in-forest-4pm9)
+* [Using `gqty` with effector](https://dev.to/effector/using-gqty-with-effector-2m16)
 
 ## Community
 * [Effector Twitter](https://twitter.com/EffectorJS)
