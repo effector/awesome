@@ -72,7 +72,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-next](https://github.com/effector/nextjs) - Effector wrappers for Next.js.
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
 * [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
-* [effector-formula](https://github.com/AkisArou/effector-formula) - Simple and minimal "formula" creator for effector when working with React, for reusable and scoped stores.
+* [effector-formula](https://github.com/AkisArou/effector-formula) - Simple and minimal "formula" creator for effector when working with React, for reusable and scoped stores, inspired by state management with Context+hooks.
 
 ### Form management
 * [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
