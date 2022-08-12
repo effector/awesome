@@ -81,4 +81,5 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Templates
 * [effector SSR](https://github.com/effector/razzle-template) - SSR on React, TypeScript, Razzle and Styled.
 * [CRA template](https://github.com/effector/cra-template) - Simple CreateReactApp template.
-* [Vite+typescript template](https://github.com/mmnkuh/effector-vite-template)
+* [Feature-sliced template](https://github.com/mmnkuh/effector-vite-template) - Basic vite.js solution template combined with 
+React, Effector, Feature-sliced (Dockerized)
