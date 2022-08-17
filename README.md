@@ -42,6 +42,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Effector YouTube](https://www.youtube.com/channel/UCm8PRc_yjz3jXHH0JylVw1Q)
 * [Telegram RU](https://t.me/effector_ru)
 * [Telegram EN](https://t.me/effector_en)
+* [Effector News in Telegram](https://t.me/effector_news)
 
 ## Examples
 * [react-effector-realworld-example-app](https://github.com/mg901/react-effector-realworld-example-app) - React + effector Example App.
