@@ -71,6 +71,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-next](https://github.com/effector/nextjs) - Effector wrappers for Next.js.
+* [effector-storage](https://github.com/yumauri/effector-storage) - Module for Effector that sync stores with localStorage (or sessionStorage)
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
 * [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
 
