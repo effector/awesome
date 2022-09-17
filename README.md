@@ -65,8 +65,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [patronum](https://github.com/effector/patronum) - Effector utility library delivering modularity and convenience.
 * [atomic-router](https://github.com/atomic-router) - Simple routing implementation that provides abstraction layer instead of inline URL's and does not break your architecture.
 * [eslint-plugin-effector](https://github.com/effector/eslint-plugin) - Enforcing best practices.
-* [effector-factorio](https://github.com/Kelin2025/effector-factorio) - The simplest way to write re-usable features with React + Effector
-* [effector-hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy
+* [effector-factorio](https://github.com/Kelin2025/effector-factorio) - The simplest way to write re-usable features with React + Effector.
+* [effector-hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy.
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
 * [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
