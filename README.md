@@ -56,7 +56,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [mlp-ssr](https://github.com/maxmitko/mlp-ssr)
 * [rn-ios-calc](https://github.com/niksmr/rn-ios-calc)
 * [Easy and light Reactjs Strong Typed Notepad with effector state manager](https://github.com/paurock/Strong-Typed-Notepad-Reactjs-w-Effector)
-* [snake](https://github.com/userbq201/snake) - Snake Game.
+* [snake](https://github.com/dmitryshelomanov/snake) - Snake Game.
 * [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - Effector vs MobX vs rxjs - diamon problem (glitches).
 
 ## Packages
