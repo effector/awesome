@@ -56,7 +56,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [mlp-ssr](https://github.com/maxmitko/mlp-ssr)
 * [rn-ios-calc](https://github.com/niksmr/rn-ios-calc)
 * [Easy and light Reactjs Strong Typed Notepad with effector state manager](https://github.com/paurock/Strong-Typed-Notepad-Reactjs-w-Effector)
-* [snake](https://github.com/userbq201/snake) - Snake Game.
+* [snake](https://github.com/dmitryshelomanov/snake) - Snake Game.
 * [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - Effector vs MobX vs rxjs - diamon problem (glitches).
 
 ## Packages
@@ -64,7 +64,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-logger](https://github.com/effector/logger) - Simple logger with stores inspector.
 * [patronum](https://github.com/effector/patronum) - Effector utility library delivering modularity and convenience.
 * [atomic-router](https://github.com/atomic-router) - Simple routing implementation that provides abstraction layer instead of inline URL's and does not break your architecture.
-* [eslint-plugin-effector](https://github.com/effector/eslint-plugin) - Enforcing best practices.
+* [eslint-plugin-effector](https://eslint.effector.dev) - Enforcing best practices.
 * [effector-factorio](https://github.com/Kelin2025/effector-factorio) - The simplest way to write re-usable features with React + Effector.
 * [effector-hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy.
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
