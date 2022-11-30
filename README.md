@@ -65,19 +65,20 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [patronum](https://github.com/effector/patronum) - Effector utility library delivering modularity and convenience.
 * [atomic-router](https://github.com/atomic-router) - Simple routing implementation that provides abstraction layer instead of inline URL's and does not break your architecture.
 * [eslint-plugin-effector](https://eslint.effector.dev) - Enforcing best practices.
-* [effector-factorio](https://github.com/Kelin2025/effector-factorio) - The simplest way to write re-usable features with React + Effector
-* [effector-hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy
+* [effector-factorio](https://github.com/Kelin2025/effector-factorio) - The simplest way to write re-usable features with React + Effector.
+* [effector-hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy.
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
 * [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-next](https://github.com/effector/nextjs) - Effector wrappers for Next.js.
+* [effector-storage](https://github.com/yumauri/effector-storage) - Module for Effector that sync stores with localStorage (or sessionStorage).
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
 * [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
 
 ### Form management
 * [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
 * [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
-* [effector-react-form](https://github.com/GTOsss/effector-react-form)
+* [effector-react-form](https://github.com/GTOsss/effector-react-form) - Alternate form manager.
 
 ## Templates
 * [effector SSR](https://github.com/effector/razzle-template) - SSR on React, TypeScript, Razzle and Styled.
