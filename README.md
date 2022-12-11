@@ -74,6 +74,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-storage](https://github.com/yumauri/effector-storage) - Module for Effector that sync stores with localStorage (or sessionStorage).
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
 * [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
+* [farfetched](https://farfetched.pages.dev) — the advanced data fetching tool for web applications.
 
 ### Form management
 * [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
