@@ -76,6 +76,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
 * [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
 * [farfetched](https://farfetched.pages.dev) - The advanced data fetching tool for web applications.
+* [@effector/reflect](https://github.com/effector/reflect) - Attach effector stores to react components without hooks.
 
 ### Form management
 * [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
