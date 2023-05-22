@@ -38,6 +38,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Using `gqty` with effector](https://dev.to/effector/using-gqty-with-effector-2m16)
 
 ## Community
+<!--lint ignore no-dead-urls-->
 * [Effector Twitter](https://twitter.com/EffectorJS)
 * [Effector YouTube](https://www.youtube.com/channel/UCm8PRc_yjz3jXHH0JylVw1Q)
 * [Telegram RU](https://t.me/effector_ru)
@@ -74,7 +75,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-storage](https://github.com/yumauri/effector-storage) - Module for Effector that sync stores with localStorage (or sessionStorage).
 * [forest](https://github.com/effector/effector/tree/master/packages/forest) - UI engine for web based on effector.
 * [@space307/effector-react-slots](https://github.com/space307/effector-react-slots) - Effector library for slots implementation in React.
-* [farfetched](https://farfetched.pages.dev) — the advanced data fetching tool for web applications.
+* [farfetched](https://farfetched.pages.dev) - The advanced data fetching tool for web applications.
 * [@effector/reflect](https://github.com/effector/reflect) - Attach effector stores to react components without hooks.
 
 ### Form management
