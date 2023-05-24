@@ -69,7 +69,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-factorio](https://github.com/Kelin2025/effector-factorio) - The simplest way to write re-usable features with React + Effector.
 * [effector-hotkey](https://github.com/Kelin2025/effector-hotkey) - Hotkeys with Effector made easy.
 * [effector-localstorage](https://github.com/lessmess-dev/effector-localstorage) - Module for effector that sync stores with localStorage.
-* [effector-undo](https://github.com/tanyaisinmybed/effector-undo) - Simple undo/redo functionality for effector.
+* [effector-history](https://github.com/Kelin2025/effector-history) - Utility library that implements undo/redo feature for you.
 * [effector-utils](https://github.com/Kelin2025/effector-utils) - Effector utilities library.
 * [effector-next](https://github.com/effector/nextjs) - Effector wrappers for Next.js.
 * [effector-storage](https://github.com/yumauri/effector-storage) - Module for Effector that sync stores with localStorage (or sessionStorage).
