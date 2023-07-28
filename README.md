@@ -59,6 +59,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Easy and light Reactjs Strong Typed Notepad with effector state manager](https://github.com/paurock/Strong-Typed-Notepad-Reactjs-w-Effector)
 * [snake](https://github.com/dmitryshelomanov/snake) - Snake Game.
 * [effector comparison](https://codesandbox.io/s/effector-comparison-r9qy2) - Effector vs MobX vs rxjs - diamon problem (glitches).
+* [russia-consulate/webapp](https://github.com/russia-consulate/webapp) - Telegram WebApp built with `effector`, `atomic-router` and `farfetched`
 
 ## Packages
 
