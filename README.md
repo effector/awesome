@@ -83,7 +83,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [effector-forms](https://github.com/aanation/effector-forms) - Form manager for effector.
 * [efform](https://github.com/tehSLy/efform) - Form manager, based on effector state manager, designed to deliver high-quality DX.
 * [effector-react-form](https://github.com/GTOsss/effector-react-form) - Alternate form manager.
-* [effector-reform](https://github.com/qvelty/effector-reform) — form manager, which implements composable forms concept
+* [effector-reform](https://github.com/movpushmov/effector-reform) — form manager, which implements composable forms concept
 
 ## Templates
 * [effector SSR](https://github.com/effector/razzle-template) - SSR on React, TypeScript, Razzle and Styled.
